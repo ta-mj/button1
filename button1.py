@@ -2,7 +2,7 @@ from tkinter import *
 
 window =Tk()
 
-b1 = Button(window, text="Taewoo Park")
+b1 = Button(window, text="Taewoo Parkk")
 b2 = Button(window, text="60192199")
 b1.grid(row=0, column=0)
 b2.grid(row=1, column=1)
